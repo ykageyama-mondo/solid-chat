@@ -18,6 +18,11 @@ pnpm wss
 pnpm dev
 ```
 
+## Future Plans for more knowledge
+
+- [x] Add SolidJs
+- [ ] Add Storybook tests
+- [ ] Add Playwright tests
 
 ## Things to keep in mind when developing with Solid JS
 
