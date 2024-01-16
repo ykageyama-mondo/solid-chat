@@ -3,6 +3,8 @@
 Simple websocket chat app using Solid JS frontend and Websocket API backend.
 For learning purposes.
 
+![Preview](./docs/assets/preview.png)
+
 ## Usage
 
 Requirements:
